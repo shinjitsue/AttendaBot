@@ -1,0 +1,45 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyd
+*.db
+*.sqlite3
+*.env
+
+# Virtual environment
+venv/
+ENV/
+env/
+.env
+.venv/
+env.bak/
+venv.bak/
+
+# IDE-specific
+.idea/
+*.iml
+
+# PyCharm specific
+*.idea/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Miscellaneous
+*.DS_Store
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+Image/
+serviceAccountKey.json
