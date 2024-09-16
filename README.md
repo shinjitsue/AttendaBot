@@ -1,6 +1,6 @@
 # AttendaBot
 
-**Face Recognition Attendance System for Students with Real-Time Database**
+**_Face Recognition Attendance System for Students with Real-Time Database_**
 
 ## Project Description
 
